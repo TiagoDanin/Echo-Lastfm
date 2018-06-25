@@ -1,0 +1,26 @@
+{
+  "name": "echo-lastfm",
+  "version": "1.0.0",
+  "description": "Echo of scrobble in Lastfm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Nice test :)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoDanin/Echo-Lastfm.git"
+  },
+  "keywords": [
+    "lastfm"
+  ],
+  "author": "TiagoDanin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TiagoDanin/Echo-Lastfm/issues"
+  },
+  "homepage": "https://github.com/TiagoDanin/Echo-Lastfm#readme",
+  "dependencies": {
+    "flastm": "1.0.1",
+    "sleep": "5.1.1"
+  }
+}
