@@ -21,6 +21,6 @@
   "homepage": "https://github.com/TiagoDanin/Echo-Lastfm#readme",
   "dependencies": {
     "flastm": "1.0.1",
-    "sleep": "5.2.3"
+    "sleep": "5.2.4"
   }
 }
