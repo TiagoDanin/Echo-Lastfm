@@ -4,7 +4,9 @@
   "description": "Echo of scrobble in Lastfm",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Nice test :)'"
+    "test": "echo 'Nice test :)'",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -21,6 +23,8 @@
   "homepage": "https://github.com/TiagoDanin/Echo-Lastfm#readme",
   "dependencies": {
     "flastm": "1.0.1",
-    "sleep": "5.2.4"
-  }
+    "sleep": "5.2.4",
+    "snyk": "^1.161.1"
+  },
+  "snyk": true
 }
