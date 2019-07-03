@@ -23,7 +23,7 @@
   "homepage": "https://github.com/TiagoDanin/Echo-Lastfm#readme",
   "dependencies": {
     "flastm": "1.0.1",
-    "sleep": "5.2.4",
+    "sleep": "6.1.0",
     "snyk": "^1.161.1"
   },
   "snyk": true
