@@ -24,7 +24,7 @@
   "dependencies": {
     "flastm": "1.0.1",
     "sleep": "6.1.0",
-    "snyk": "^1.161.1"
+    "snyk": "^1.192.0"
   },
   "snyk": true
 }
